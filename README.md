@@ -6,7 +6,7 @@
 Bu proje, Python'da "matrisler (2D Lists), iç içe döngüler ve fonksiyonel programlama" mantığını kullanarak geliştirilmiş bir stok ve satış simülasyonudur. Basit bir hesap makinesinden öte, gerçek dünya senaryolarına uygun mantıksal kontrol mekanizmaları içerir.
 
 
-🚀 Yeni Eklenen Özellikler
+🚀  Özellikler
 
 - Gelişmiş Sepet Mantığı: Tekli satış yerine, bir liste (sepet) dolusu ürünün aynı anda işlenmesi.
 - Kritik Stok Uyarı Sistemi: Stok miktarı belirlenen eşik değerin (5 kg) altına düştüğünde sistemi otomatik olarak uyarması.
