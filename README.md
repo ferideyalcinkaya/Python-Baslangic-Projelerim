@@ -3,7 +3,7 @@
 
 🍎 Manav & Kasa Yönetim Sistemi 
 
-Bu proje, Python'da "*matrisler (2D Lists), iç içe döngüler ve fonksiyonel programlama" mantığını kullanarak geliştirilmiş bir stok ve satış simülasyonudur. Basit bir hesap makinesinden öte, gerçek dünya senaryolarına uygun mantıksal kontrol mekanizmaları içerir.
+Bu proje, Python'da "matrisler (2D Lists), iç içe döngüler ve fonksiyonel programlama" mantığını kullanarak geliştirilmiş bir stok ve satış simülasyonudur. Basit bir hesap makinesinden öte, gerçek dünya senaryolarına uygun mantıksal kontrol mekanizmaları içerir.
 
 
 🚀 Yeni Eklenen Özellikler
@@ -21,7 +21,7 @@ Bu proje, Python'da "*matrisler (2D Lists), iç içe döngüler ve fonksiyonel p
 
  📝 Örnek Çıktı (Planlanan)
 
-text
+
 --- SATIŞ FİŞİ ---
 - 2 kg Elma: 40 TL
 - 1 kg Muz: 50 TL (UYARI: Stok 5kg altına düştü!)
